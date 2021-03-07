@@ -4,7 +4,7 @@ Eco-translation is a community driven translation proposals for eco.com
 
 # How can I get involve ?
 
-If you are familiar with github, you can directly submit a pull request, if not you can ask send on  the discord server of Eco the translation or correction you work on, and want to push on https://eco-translations.github.io/
+If you are familiar with github, you can directly submit a pull request, if not you can ask on to Jeremie#7539 on the Eco discord server the translation or correction you worked on, and want to push on https://eco-translations.github.io/
 
 # How can I check the status of the translations ?
 
