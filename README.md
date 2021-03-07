@@ -23,3 +23,12 @@ if, for example you want to translate [this page](https://support.eco.com/en/art
 - Rename the downloaded document into `index.html`
 - Translate the text inside index.html
 - Submit a pull request so other can check and verify your translation
+- Once your pull request approved, your this page would be visible at : https://eco-translations.github.io/es/articles/4620326-is-my-eco-account-covered-by-the-fdic
+
+
+# How to add the non official warning disclaimer 
+
+You can copy this line at the end of the created index.html
+```html
+<script src="/inject-warning-header.js"></script>
+```
