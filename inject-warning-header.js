@@ -9,7 +9,6 @@ warningContainer.innerHTML = `
             text-align: center;
             font-size: 16px;
             padding: 25px;
-            position: fixed;
             width: 100%;
             z-index: 50000;
 ">
