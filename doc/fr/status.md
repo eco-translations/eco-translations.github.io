@@ -7,7 +7,7 @@ Here's a list of what I think it's the most important to cover first. Feel free 
 ## 1.1 Priorities reward
 
 - for each new page translated ( can just be send in a message to @jeremie): 5 points
-- for each page submited to github properly ( [link and disclaimer warning properly set up](https://eco-translations.github.io/fr/) ) : 5 points
+- for each page submited to github properly ( [link and disclaimer warning properly set up](https://eco-translations.github.io/fr/  ) ) : 5 points
 - for each improvment approved on already existing translations : 1 points
 - Each approved pull request not covered by the points below will be rewarded : 5 to 20 depending on the ammount of work acomplished
 
@@ -17,8 +17,8 @@ Point can be claimed by tagging @Jeremie in discord
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
-| HOME        | [/](https://www.eco.com/) | [Proposal](https://eco-translations.github.io/fr/) | Started | @Jeremie | none
-| ABOUT        | [/about](https://www.eco.com/about)   |  none 
+| HOME        | [/](https://www.eco.com/) | [Proposal](https://eco-translations.github.io/fr/) | Online | @Jeremie | none
+| ABOUT        | [/about](https://www.eco.com/about) | [Proposal](https://eco-translations.github.io/fr/about)   |  Online | @Arthur Weis 
 | Eco is not a bank  | [/eco-is-not-a-bank](https://www.eco.com/posts/eco-is-not-a-bank)   | none  
 | How money moved  | [/how-money-moved](https://www.eco.com/posts/how-money-moved)  | none 
 | How money moves  | [/how-money-moves](https://www.eco.com/posts/how-money-moves)  | none 
