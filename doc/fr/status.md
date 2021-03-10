@@ -23,7 +23,7 @@ Point can be claimed by tagging @Jeremie in discord
 | How money moved  | [/how-money-moved](https://www.eco.com/posts/how-money-moved)  | none 
 | How money moves  | [/how-money-moves](https://www.eco.com/posts/how-money-moves)  | none 
 | New tech: same as the old | [/new-technology](https://www.eco.com/posts/new-technology)  | none 
-|  Blockchain and cryptocurrencies, for real | [/new-technology](https://www.eco.com/posts/blockchain-and-cryptocurrencies)  | none
+|  Blockchain and cryptocurrencies, for real | [/new-technology](https://www.eco.com/posts/blockchain-and-cryptocurrencies)  | Work in progress | @Jeremie
 |  How do we not become a bank? | [/how-do-we-not-become-a-bank](https://www.eco.com/posts/how-do-we-not-become-a-bank)| none  
 |  How do we not become a bank? | [/how-do-we-not-become-a-bank](https://www.eco.com/posts/how-do-we-not-become-a-bank)| none  
 
