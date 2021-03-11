@@ -19,7 +19,7 @@ Point can be claimed by tagging @Jeremie in discord
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
 | HOME        | [/](https://www.eco.com/) | [Proposal](https://eco-translations.github.io/fr/) | Online | @Jeremie | none
 | ABOUT        | [/about](https://www.eco.com/about) | [Proposal](https://eco-translations.github.io/fr/about)   |  Online | @Arthur Weis 
-| Eco is not a bank  | [/eco-is-not-a-bank](https://www.eco.com/posts/eco-is-not-a-bank)   | [Proposal](https://eco-translations.github.io/fr/posts/eco-is-not-a-bank)  | Online | @Arthur Weis  | none
+| Eco is not a bank  | [/eco-is-not-a-bank](https://www.eco.com/posts/eco-is-not-a-bank)   | [Proposal](https://eco-translations.github.io/fr/posts/eco-is-not-a-bank)  | Online | @Arthur Weis  | @getordone
 | How money moved  | [/how-money-moved](https://www.eco.com/posts/how-money-moved)  | none 
 | How money moves  | [/how-money-moves](https://www.eco.com/posts/how-money-moves)  | none 
 | New tech: same as the old | [/new-technology](https://www.eco.com/posts/new-technology)  | none 
