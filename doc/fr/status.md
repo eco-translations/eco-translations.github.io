@@ -20,7 +20,7 @@ Point can be claimed by tagging @Jeremie in discord
 | HOME        | [/](https://www.eco.com/) | [Proposal](https://eco-translations.github.io/fr/) | Online | @Jeremie | none
 | ABOUT        | [/about](https://www.eco.com/about) | [Proposal](https://eco-translations.github.io/fr/about)   |  Online | @Arthur Weis 
 | Eco is not a bank  | [/eco-is-not-a-bank](https://www.eco.com/posts/eco-is-not-a-bank)   | [Proposal](https://eco-translations.github.io/fr/posts/eco-is-not-a-bank)  | Online | @Arthur Weis  | @getordone
-| How money moved  | [/how-money-moved](https://www.eco.com/posts/how-money-moved)  | none 
+| How money moved  | [/how-money-moved](https://www.eco.com/posts/how-money-moved)  | Work in progress | @aKaKwak
 | How money moves  | [/how-money-moves](https://www.eco.com/posts/how-money-moves)  | none 
 | New tech: same as the old | [/new-technology](https://www.eco.com/posts/new-technology)  | none 
 |  Blockchain and cryptocurrencies, for real | [/new-technology](https://www.eco.com/posts/blockchain-and-cryptocurrencies)  | Work in progress | @Jeremie
@@ -92,8 +92,8 @@ When will you add new merchants? | [url](https://support.eco.com/en/articles/462
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
 | Comment gérer mes notifications? | [url](https://support.eco.com/en/articles/4620375-how-do-i-manage-my-notifications) | [Proposal](articles/4620375-how-do-i-manage-my-notifications) | Started | @Redallica | none
-How do I change my password? | [url](https://support.eco.com/en/articles/4620376-how-do-i-change-my-password)
-How do I manage FaceID? | [url](https://support.eco.com/en/articles/4620377-how-do-i-manage-faceid)
-Can I change the email associated with my account? | [url](https://support.eco.com/en/articles/4620380-can-i-change-the-email-associated-with-my-account)
+How do I change my password? | [url](https://support.eco.com/en/articles/4620376-how-do-i-change-my-password) | [Proposal](articles/4620376-how-do-i-change-my-password) | Submitted | @Redallica | none
+How do I manage FaceID? | [url](https://support.eco.com/en/articles/4620377-how-do-i-manage-faceid)  | [Proposal](articles/4620377-how-do-i-manage-faceid) | Submitted | @Redallica | none
+Can I change the email associated with my account? | [url](https://support.eco.com/en/articles/4620380-can-i-change-the-email-associated-with-my-account) | [Proposal](articles/4620380-can-i-change-the-email-associated-with-my-account) | Submitted | @Redallica | none
 Can I change my username? | [url](https://support.eco.com/en/articles/4620378-can-i-change-my-username)
 
