@@ -91,7 +91,7 @@ When will you add new merchants? | [url](https://support.eco.com/en/articles/462
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
-| Comment gérer mes notifications? | [url](https://support.eco.com/en/articles/4620375-how-do-i-manage-my-notifications) | [Proposal](articles/4620375-how-do-i-manage-my-notifications) | Started | @Redallica | none
+| Comment gérer mes notifications? | [url](https://support.eco.com/en/articles/4620375-how-do-i-manage-my-notifications) | [Proposal](articles/4620375-how-do-i-manage-my-notifications) | Submitted | @Redallica | none
 How do I change my password? | [url](https://support.eco.com/en/articles/4620376-how-do-i-change-my-password) | [Proposal](articles/4620376-how-do-i-change-my-password) | Submitted | @Redallica | none
 How do I manage FaceID? | [url](https://support.eco.com/en/articles/4620377-how-do-i-manage-faceid)  | [Proposal](articles/4620377-how-do-i-manage-faceid) | Submitted | @Redallica | none
 Can I change the email associated with my account? | [url](https://support.eco.com/en/articles/4620380-can-i-change-the-email-associated-with-my-account) | [Proposal](articles/4620380-can-i-change-the-email-associated-with-my-account) | Submitted | @Redallica | none
