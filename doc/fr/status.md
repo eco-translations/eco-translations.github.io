@@ -76,7 +76,7 @@ Are there any restrictions or requirements for my monthly interest deposit? | [u
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
-Where can I pay with Eco? | [url](https://support.eco.com/en/articles/4620368-where-can-i-pay-with-eco)
+Where can I pay with Eco? | [url](https://support.eco.com/en/articles/4620368-where-can-i-pay-with-eco) | [Proposal](articles/4620368-where-can-i-pay-with-eco) | Submitted | @Redallica | none
 How do I pay with Eco? | [url](https://support.eco.com/en/articles/4620369-how-do-i-pay-with-eco)
 When will my 5% cash back arrive? | [url](https://support.eco.com/en/articles/4620370-when-will-my-5-cash-back-arrive)
 I lost my gift card code, where can I find that in the Eco app? | [url](https://support.eco.com/en/articles/4843946-i-lost-my-gift-card-code-where-can-i-find-that-in-the-eco-app)
