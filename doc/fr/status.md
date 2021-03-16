@@ -79,7 +79,7 @@ Are there any restrictions or requirements for my monthly interest deposit? | [u
 Where can I pay with Eco? | [url](https://support.eco.com/en/articles/4620368-where-can-i-pay-with-eco) | [Proposal](articles/4620368-where-can-i-pay-with-eco) | Submitted | @Redallica | none
 How do I pay with Eco? | [url](https://support.eco.com/en/articles/4620369-how-do-i-pay-with-eco) | [Proposal](articles/4620369-how-do-i-pay-with-eco) | Submitted | @Redallica | none
 When will my 5% cash back arrive? | [url](https://support.eco.com/en/articles/4620370-when-will-my-5-cash-back-arrive) | [Proposal](articles/4620370-when-will-my-5-cash-back-arrive) | Submitted | @Redallica | none
-I lost my gift card code, where can I find that in the Eco app? | [url](https://support.eco.com/en/articles/4843946-i-lost-my-gift-card-code-where-can-i-find-that-in-the-eco-app)
+I lost my gift card code, where can I find that in the Eco app? | [url](https://support.eco.com/en/articles/4843946-i-lost-my-gift-card-code-where-can-i-find-that-in-the-eco-app) | [Proposal](articles/4843946-i-lost-my-gift-card-code-where-can-i-find-that-in-the-eco-app) | Submitted | @Redallica | none
 How do I request a refund for a purchase I made with Eco? | [url](https://support.eco.com/en/articles/4620371-how-do-i-request-a-refund-for-a-purchase-i-made-with-eco)
 My balance with Eco isn’t enough to complete my transaction. Does Eco support split payment? | [url](https://support.eco.com/en/articles/4620372-my-balance-with-eco-isn-t-enough-to-complete-my-transaction-does-eco-support-split-payment)
 A merchant is having trouble accepting Eco. Who do I contact? | [url](https://support.eco.com/en/articles/4620373-a-merchant-is-having-trouble-accepting-eco-who-do-i-contact)
