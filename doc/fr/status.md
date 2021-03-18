@@ -61,8 +61,8 @@ What type of ID can I use when submitting verification? | [url](https://support.
 What can I use for a Proof Of Address document? | [url](https://support.eco.com/en/articles/4620344-what-can-i-use-for-a-proof-of-address-document) | [Proposal](articles/4620344-what-can-i-use-for-a-proof-of-address-document) | Submitted | @Redallica | none
 Do I need to submit a Proof Of Address document?| [url](https://support.eco.com/en/articles/4620343-do-i-need-to-submit-a-proof-of-address-document) | [Proposal](articles/4620343-do-i-need-to-submit-a-proof-of-address-document) | Submitted | @Redallica | none
 How long does verification take? | [url](https://support.eco.com/en/articles/4620346-how-long-does-verification-take) | [Proposal](articles/4620346-how-long-does-verification-take) | Submitted | @Redallica | none
-Why do you need my SSN? | [url](https://support.eco.com/en/articles/4620345-why-do-you-need-my-ssn)
-Why isn’t my state supported by Eco? | [url](https://support.eco.com/en/articles/4620349-why-isn-t-my-state-supported-by-eco)
+Why do you need my SSN? | [url](https://support.eco.com/en/articles/4620345-why-do-you-need-my-ssn) | [Proposal](articles/4620345-why-do-you-need-my-ssn) | Submitted | @Redallica | none
+Why isn’t my state supported by Eco? | [url](https://support.eco.com/en/articles/4620349-why-isn-t-my-state-supported-by-eco) | [Proposal](articles/4620349-why-isn-t-my-state-supported-by-eco) | Submitted | @Redallica | none
 
 ## 2.3 Earning interest
 
