@@ -57,10 +57,10 @@ When will my payroll deposit arrive in my Eco account? | [url](https://support.e
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
-What type of ID can I use when submitting verification? | [url](https://support.eco.com/en/articles/4620342-what-type-of-id-can-i-use-when-submitting-verification)
-What can I use for a Proof Of Address document? | [url](https://support.eco.com/en/articles/4620344-what-can-i-use-for-a-proof-of-address-document)
-Do I need to submit a Proof Of Address document?| [url](https://support.eco.com/en/articles/4620343-do-i-need-to-submit-a-proof-of-address-document)
-How long does verification take? | [url](https://support.eco.com/en/articles/4620346-how-long-does-verification-take)
+What type of ID can I use when submitting verification? | [url](https://support.eco.com/en/articles/4620342-what-type-of-id-can-i-use-when-submitting-verification) | [Proposal](articles/4620342-what-type-of-id-can-i-use-when-submitting-verification) | Submitted | @Redallica | none
+What can I use for a Proof Of Address document? | [url](https://support.eco.com/en/articles/4620344-what-can-i-use-for-a-proof-of-address-document) | [Proposal](articles/4620344-what-can-i-use-for-a-proof-of-address-document) | Submitted | @Redallica | none
+Do I need to submit a Proof Of Address document?| [url](https://support.eco.com/en/articles/4620343-do-i-need-to-submit-a-proof-of-address-document) | [Proposal](articles/4620343-do-i-need-to-submit-a-proof-of-address-document) | Submitted | @Redallica | none
+How long does verification take? | [url](https://support.eco.com/en/articles/4620346-how-long-does-verification-take) | [Proposal](articles/4620346-how-long-does-verification-take) | Submitted | @Redallica | none
 Why do you need my SSN? | [url](https://support.eco.com/en/articles/4620345-why-do-you-need-my-ssn)
 Why isn’t my state supported by Eco? | [url](https://support.eco.com/en/articles/4620349-why-isn-t-my-state-supported-by-eco)
 
@@ -68,9 +68,9 @@ Why isn’t my state supported by Eco? | [url](https://support.eco.com/en/articl
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
-Where does the interest in Eco come from? | [url](https://support.eco.com/en/articles/4620363-where-does-the-interest-in-eco-come-from)
-When do I receive my monthly interest deposit? | [url](https://support.eco.com/en/articles/4620364-when-do-i-receive-my-monthly-interest-deposit)
-Are there any restrictions or requirements for my monthly interest deposit? | [url](https://support.eco.com/en/articles/4620365-are-there-any-restrictions-or-requirements-for-my-monthly-interest-deposit)
+Where does the interest in Eco come from? | [url](https://support.eco.com/en/articles/4620363-where-does-the-interest-in-eco-come-from) | [Proposal](articles/4620363-where-does-the-interest-in-eco-come-from) | Submitted | @Redallica | none
+When do I receive my monthly interest deposit? | [url](https://support.eco.com/en/articles/4620364-when-do-i-receive-my-monthly-interest-deposit) | [Proposal](articles/4620364-when-do-i-receive-my-monthly-interest-deposit) | Submitted | @Redallica | none
+Are there any restrictions or requirements for my monthly interest deposit? | [url](https://support.eco.com/en/articles/4620365-are-there-any-restrictions-or-requirements-for-my-monthly-interest-deposit) | [Proposal](articles/4620365-are-there-any-restrictions-or-requirements-for-my-monthly-interest-deposit) | Submitted | @Redallica | none
 
 ## 2.4 Paying with Eco
 
