@@ -48,10 +48,10 @@ Point can be claimed by tagging @Jeremie in discord
 How can I deposit to my Eco account? | [url](https://support.eco.com/en/articles/4620350-how-can-i-deposit-to-my-eco-account) | [Proposal](articles/4620350-how-can-i-deposit-to-my-eco-account) | Submitted | @Redallica | none
 Can I set a recurring deposit in the Eco app from my linked bank account? | [url](https://support.eco.com/en/articles/5000071-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account) | [Proposal](articles/5000071-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account) | Submitted | @Redallica | none
 Is there a limit on how much I can deposit to Eco? | [url](https://support.eco.com/en/articles/4620362-is-there-a-limit-on-how-much-i-can-deposit-to-eco) | [Proposal](articles/4620362-is-there-a-limit-on-how-much-i-can-deposit-to-eco) | Submitted | @Redallica | none
-Can I set a recurring deposit in the Eco app from my linked bank account? | [url](https://support.eco.com/en/articles/4620385-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account)
-When can I withdraw funds from Eco? | [url](https://support.eco.com/en/articles/4926007-when-can-i-withdraw-funds-from-eco)
-How long does a bank deposit take to arrive in my Eco account? | [url](https://support.eco.com/en/articles/4620355-how-long-does-a-bank-deposit-take-to-arrive-in-my-eco-account)
-When will my payroll deposit arrive in my Eco account? | [url](https://support.eco.com/en/articles/4620361-when-will-my-payroll-deposit-arrive-in-my-eco-account)
+Can I set a recurring deposit in the Eco app from my linked bank account? | [url](https://support.eco.com/en/articles/4620385-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account) | [Proposal](articles/4620385-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account) | Submitted | @Redallica | none
+When can I withdraw funds from Eco? | [url](https://support.eco.com/en/articles/4926007-when-can-i-withdraw-funds-from-eco) | [Proposal](articles/4926007-when-can-i-withdraw-funds-from-eco) | Submitted | @Redallica | none
+How long does a bank deposit take to arrive in my Eco account? | [url](https://support.eco.com/en/articles/4620355-how-long-does-a-bank-deposit-take-to-arrive-in-my-eco-account) | [Proposal](articles/4620355-how-long-does-a-bank-deposit-take-to-arrive-in-my-eco-account) | Submitted | @Redallica | none
+When will my payroll deposit arrive in my Eco account? | [url](https://support.eco.com/en/articles/4620361-when-will-my-payroll-deposit-arrive-in-my-eco-account) | [Proposal](articles/4620361-when-will-my-payroll-deposit-arrive-in-my-eco-account) | Submitted | @Redallica | none
 
 ## 2.3 Identity verification
 
