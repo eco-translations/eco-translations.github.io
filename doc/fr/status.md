@@ -45,8 +45,8 @@ Point can be claimed by tagging @Jeremie in discord
 
 | Page     | Url | translation Url  | Status | translators | correctors
 | ------------- |:-------------:| :-----:|  :-----: |  :-----: | :-----: |
-How can I deposit to my Eco account? | [url](https://support.eco.com/en/articles/4620350-how-can-i-deposit-to-my-eco-account)
-Can I set a recurring deposit in the Eco app from my linked bank account? | [url](https://support.eco.com/en/articles/5000071-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account)
+How can I deposit to my Eco account? | [url](https://support.eco.com/en/articles/4620350-how-can-i-deposit-to-my-eco-account) | [Proposal](articles/4620350-how-can-i-deposit-to-my-eco-account) | Submitted | @Redallica | none
+Can I set a recurring deposit in the Eco app from my linked bank account? | [url](https://support.eco.com/en/articles/5000071-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account) | [Proposal](articles/5000071-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account) | Submitted | @Redallica | none
 Is there a limit on how much I can deposit to Eco? | [url](https://support.eco.com/en/articles/4620362-is-there-a-limit-on-how-much-i-can-deposit-to-eco)
 Can I set a recurring deposit in the Eco app from my linked bank account? | [url](https://support.eco.com/en/articles/4620385-can-i-set-a-recurring-deposit-in-the-eco-app-from-my-linked-bank-account)
 When can I withdraw funds from Eco? | [url](https://support.eco.com/en/articles/4926007-when-can-i-withdraw-funds-from-eco)
